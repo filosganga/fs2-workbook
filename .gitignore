@@ -6,4 +6,7 @@
 .idea_modules/
 *.iml
 
+.ensime
+.ensime_cache/
+
 .DS_Store
